@@ -1,0 +1,5 @@
+C:\Prj\jetDev\JetDevSolution\jetDev.PersianDate\bin\Debug\jetDev.PersianDate.dll
+C:\Prj\jetDev\JetDevSolution\jetDev.PersianDate\bin\Debug\jetDev.PersianDate.pdb
+C:\Prj\jetDev\JetDevSolution\jetDev.PersianDate\obj\Debug\jetDev.PersianDate.dll
+C:\Prj\jetDev\JetDevSolution\jetDev.PersianDate\obj\Debug\jetDev.PersianDate.pdb
+C:\Prj\jetDev\JetDevSolution\jetDev.PersianDate\obj\Debug\jetDev.PersianDate.csprojResolveAssemblyReference.cache
